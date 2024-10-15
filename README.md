@@ -1,5 +1,4 @@
-# Penzugyi_Menedzsment_Sistem
-## Web
+# Penzugyi_Menedzsment_Sistem (Web)
 
 #### Funkciók:
 - Felhasználói profil létrehozása, meglévő profilba való bejelentkezés.
