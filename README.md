@@ -1,1 +1,1 @@
-# P-nz-gyi_Menedzsment_Sistem
+# Penzugyi_Menedzsment_Sistem
